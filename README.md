@@ -1,6 +1,16 @@
 # Olá, eu sou o Vittor Rafael!
   <p align="left">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+Sou um desenvolvedor front end com paixão pela
+tecnologia desde os 15 anos. Minha expertise abrange
+HTML, CSS, JavaScript, ReactJS, VueJS e NodeJS,
+permitindo-me criar interfaces interativas e aplicativos full
+stack. Minha busca constante
+por conhecimento me mantém atualizado com as últimas
+tendências. Busco uma carreira de sucesso, contribuindo
+para projetos inovadores e liderando equipes. Minha
+dedicação e visão ambiciosa impulsionam-me a superar
+desafios e alcançar resultados notáveis no
+desenvolvimento front end e back end.
   </p>
 
 [![Porfólio](https://img.shields.io/badge/Portf%C3%B3lio-1414b8?style=for-the-badge&logo=travis&logoColor=white)](https://vittorrafael.github.io/)
